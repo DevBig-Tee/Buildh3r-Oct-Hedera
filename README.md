@@ -1,6 +1,6 @@
 # Buildh3r-Oct-Hedera
 Hedera is a public ledger of transactions – a highly secure and distributed database that everyone can read from and write to.  
-```ACTIVITIES```
+```ACTIVITIES```<br><br>
 ``Five Minute Hedera Token Service``<br>
 The new token Hashscan URL: https://hashscan.io/testnet/token/0.0.4969603<br>
 🔢 Summary metrics  …
